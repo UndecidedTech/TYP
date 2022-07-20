@@ -39,3 +39,27 @@
          (else -1))
    (+ a 1)
    ) ;; 4 * 4 =  16
+
+;;; Exercise 1.2
+
+;;; Translate the following expression into prefix form
+
+;;; I should include an image for the expression here...
+
+(/ (+ 5 4 (- 2 (- 3 (+ 6 (/ 4 5)) ))) (* 3 (- 6 2) (- 2 7)))
+
+
+;;; Exercise 1.3
+
+;;; Define a procedure that takes three numbers as arguments and
+;;; returns the sum of the squares of the two larger numbers
+
+(define (sum-larger x) (println x))
+
+(define (find-pair a b c) (cond (and (> a b) (> a c) (> b c)) (println(a b))
+                                (and (> a b) (> a c) (< b c)) (println(a c))
+                                (println(b c))
+                                )
+)
+(find-pair 1 2 3)
+
