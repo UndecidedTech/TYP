@@ -1,0 +1,25 @@
+Programming language in use: Scheme
+
+scheme implementation: STk
+
+(+ 6 8) = 14
+
+infix notation: 3 + 4 
+  + is in the middle
+
+Prefix notation: sin(3,4)
+
+Postfix notation: 7!
+
+                v formal parameter
+(define (square x)
+  (* x x)
+)
+
+
+Notes for next lecture:
+
+Use DrRacket for IDE, check lecture1.scm for how to import simply-scheme for the berkley lessons
+
+IN CASE YOU LOSE LINK
+https://archive.org/details/ucberkeley_webcast_l28HAzKy0N8

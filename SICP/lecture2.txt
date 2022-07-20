@@ -1,0 +1,65 @@
+computer science is a shitty name -- we take as much 
+as we know about how the world works, and make it software
+
+science is asking questions about how the world works
+
+certain problems cannot be solved by computer problems
+
+Non-english speakers call it informatics
+
+Computer programming is easy when the program is small
+-- it can all fit in your head at once
+
+There was a time where programs could fit in your head...
+
+Computer science is about the control of complexity
+ -- the old fashioned answer, hire 5000 programs
+   - this doesn't work because it takes even longer
+ -- separate problems and programs into separate chunks
+  - these are called programming paradigms
+
+APPLICATION
+-----------
+HIGH LEVEL LANGUAGE (eg. scheme)
+-----------
+Low level language (eg. C)
+-----------
+Machine language/architecture
+-----------
+Logic gates
+-----------
+transistors
+-----------
+Quantum physics
+
+
+High level languages will abstract where values are in memory
+
+low level languages are interpreted in ways the computer can understand
+
+
+Function:
+f(x) = 2x + 6
+
+Computers are doing more than one thing at a time -- time sharing allows computers
+to run thinks for one 10th of a second and then another thing
+
+If your program is entirely made of functions, it won't know what the larger state of things
+in the computer are.
+
+functional programming became important because of paralellism
+
+f(x) = 2x + 6
+g(x) = 2(x + 3)
+
+these are the same functions, different procedures
+
+inside the computer, there are only procedures
+
+2x + b -- this isn't a function because it has a free variable
+
+Its a lot easier to make a program that works, and make it faster
+than to make a fast program that doesn't work, work..
+
+
+
